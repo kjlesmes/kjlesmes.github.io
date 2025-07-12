@@ -1,2 +1,2 @@
 # kjlesmes.github.io
-Welcome to my design portfolio, a collection of projects that showcase my skills and passion for mechanical and product design.
+Welcome to my design portfolio, a collection of projects that showcase my skills and passion for mechanical and product design. Each piece reflects my ability to develop innovative, functional, and manufacturable solutions using advanced CAD tools, particularly SolidWorks. From conceptual sketches to detailed 3D models and technical drawings, this portfolio demonstrates my commitment to precision, creativity, and engineering excellence. Whether working individually or as part of a team, I focus on optimizing designs for real-world applications and continuous improvement.
